@@ -1,0 +1,20 @@
+{
+  "input": [
+    {
+      "model_key": "Citroën",
+      "mileage": 30000,
+      "engine_power": 140,
+      "fuel": "diesel",
+      "paint_color": "black",
+      "car_type": "convertible",
+      "private_parking_available": false,
+      "has_gps": false,
+      "has_air_conditioning": false,
+      "automatic_car": false,
+      "has_getaround_connect": false,
+      "has_speed_regulator": false,
+      "winter_tires": false
+    }
+  ]
+}
+

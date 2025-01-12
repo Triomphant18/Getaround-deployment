@@ -1,0 +1,6 @@
+,model_key,mileage,engine_power,fuel,paint_color,car_type,private_parking_available,has_gps,has_air_conditioning,automatic_car,has_getaround_connect,has_speed_regulator,winter_tires,rental_price_per_day
+0,Citroën,140411,100,diesel,black,convertible,True,True,False,False,True,True,True,106
+1,Citroën,13929,317,petrol,grey,convertible,True,True,False,False,False,True,True,264
+2,Citroën,183297,120,diesel,white,convertible,False,False,False,False,True,False,True,101
+3,Citroën,128035,135,diesel,red,convertible,True,True,False,False,True,True,True,158
+4,Citroën,97097,160,diesel,silver,convertible,True,True,False,False,False,True,True,183
